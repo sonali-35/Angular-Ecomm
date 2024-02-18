@@ -1,0 +1,26 @@
+table{
+    text-align: left;
+    color: blue;
+    border-collapse: collapse;
+}
+table tr th{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 10px;
+}
+table th,table td{
+    border:  1px solid black;
+    padding: 10px;
+    min-width:90px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.adjust{
+    margin-left: 19px;
+}
+h1{
+    color:blue;
+    text-align: center;
+}

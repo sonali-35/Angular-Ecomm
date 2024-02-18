@@ -1,0 +1,158 @@
+{
+  "seller": [
+    {
+      "name": "priya",
+      "email": "priya@gmail.com",
+      "password": "priya123",
+      "id": 1
+    },
+    {
+      "name": "Aliya",
+      "email": "mina@gmail.com",
+      "password": "ganu@123#",
+      "id": 2
+    },
+    {
+      "name": "activa",
+      "email": "anil@gmail.com",
+      "password": "abc123",
+      "id": 3
+    },
+    {
+      "name": "sagar",
+      "email": "ganesh@gmail.com",
+      "password": "ganu@123#",
+      "id": 4
+    },
+    {
+      "name": "ram",
+      "password": "nj988yghkj",
+      "email": "pinki@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "varsha",
+      "password": "nj988yghkj",
+      "email": "pinki@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "mahesh",
+      "password": "maya123",
+      "email": "maya@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "varsha",
+      "password": "ganu@123#",
+      "email": "ganesh@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 9
+    }
+  ],
+  "Products": [
+    {
+      "name": "Apple iPhone 14",
+      "price": "$ 75000",
+      "color": "silver",
+      "category": "Iphone",
+      "description": "Apple iPhone 14 Pro Max (128GB, Deep Purple)\n",
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1662655662/Croma%20Assets/Communication/Mobiles/Images/261979_oq7vjv.png?tr=w-600",
+      "id": 1
+    },
+    {
+      "name": "Dell ",
+      "price": "71,299.00",
+      "color": "solid blue",
+      "category": "Buying ",
+      "description": "Dell Inspiron 5430 Notebook Laptop (13th Gen Intel Core i5-1335U/16GB/1 TB SSD/Intel UMA Graphics/Windows 11/MSO/FHD), 35.56 cm (14 inch)\n",
+      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1680028893.42691134!348x348.jpg",
+      "id": 2
+    },
+    {
+      "name": "HP Laptop",
+      "price": "24,500",
+      "color": "black",
+      "category": "Brand",
+      "description": "In order to meet the demand of our customers, we are providing a wide range of HP Laptop.\n\n",
+      "image": "https://5.imimg.com/data5/WT/WU/MY-13922529/hp-laptop-500x500.jpg",
+      "id": 3
+    },
+    {
+      "name": "Acer Aspire",
+      "price": "$349.98",
+      "color": "blue",
+      "category": "laptop",
+      "description": "Top laptop brands in India (March 2023): popular laptops, price, specifications, and more\n",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": 4
+    },
+    {
+      "name": "V15  Vivo",
+      "price": "₹46,290",
+      "color": "Grey",
+      "category": "No fingerprint reader",
+      "description": "ADD THESE GREAT ACCESSORIES TO YOUR SYSTEM FOR A DISCOUNT!\n\n\n",
+      "image": "https://p2-ofp.static.pub/fes/cms/2022/09/26/i6zlcap44kafmcywlh54d9rd1wieh1215035.png",
+      "id": 5
+    },
+    {
+      "name": "sportshoes",
+      "price": "299.00 ",
+      "color": "blue",
+      "category": "APG INDIAN TECHNOLOGIES",
+      "description": "This product is returnable within 10 daysknow more",
+      "image": "https://www.jiomart.com/images/product/original/rvl9cvytva/bruton-trendy-sports-shoes-for-men-blue-product-images-rvl9cvytva-0-202209021254.jpg?im=Resize=(500,630)",
+      "id": 6
+    },
+    {
+      "name": "Samsung Galaxy",
+      "price": "₹26,999.00",
+      "color": "red",
+      "category": "Hybrid Sim Slot\t",
+      "description": "Moto Edge 40 5G 256 GB, 8 GB, Viva Magenta, Mobile Phone\n",
+      "image": "https://i03.appmifile.com/330_item_in/03/06/2023/b843c76240269154564178470ed0a177!500x500.jpg",
+      "id": 7
+    },
+    {
+      "name": "watch",
+      "price": "₹15,990",
+      "color": "black",
+      "category": "leaf  watch",
+      "description": "LEAF WATCH PRO WIRELESS BT CALLING SMART WATCH",
+      "image": "https://www.leafstudios.in/cdn/shop/products/Main_e5e71878-90d3-4817-9dd3-1d81e343afea_800x.jpg?v=1671601920",
+      "id": 8
+    }
+  ],
+  "user": [
+    {
+      "name": "mina",
+      "email": "mina@gmail.com",
+      "password": "mina7687",
+      "id": 3
+    },
+    {
+      "name": "krish",
+      "email": "krish@gmail.com",
+      "password": "krish123",
+      "id": 4
+    },
+    {
+      "name": "raju",
+      "email": "raju@gmail.com",
+      "password": "raju123",
+      "id": 5
+    },
+    {
+      "name": "mina",
+      "email": "mina@gmail.com",
+      "password": "mina7687",
+      "id": 6
+    }
+      ]
+}
